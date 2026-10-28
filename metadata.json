@@ -1,0 +1,6 @@
+{
+  "name": "TIGERALI97 VPN",
+  "description": "Secure, fast, and privacy-focused VPN client with global servers, kill switch, and real-time telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
